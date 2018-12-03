@@ -1,0 +1,21 @@
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\obj\Debug\wiki.answer.com.frmMain.resources
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\obj\Debug\wiki.answer.com.csproj.GenerateResource.Cache
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\bin\Debug\wiki.answer.com.exe.config
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\bin\Debug\wiki.answer.com.exe
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\bin\Debug\wiki.answer.com.pdb
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\bin\Debug\HtmlAgilityPack.dll
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\bin\Debug\HtmlAgilityPack.xml
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\obj\Debug\wiki.answer.com.exe
+C:\Users\omid\Documents\Visual Studio 2012\Projects\wiki.answer.com\wiki.answer.com\obj\Debug\wiki.answer.com.pdb
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\bin\Debug\wiki.answer.com.exe.config
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\bin\Debug\wiki.answer.com.exe
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\bin\Debug\wiki.answer.com.pdb
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\obj\Debug\wiki.answer.com.frmMain.resources
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\obj\Debug\wiki.answer.com.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\obj\Debug\wiki.answer.com.exe
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\obj\Debug\wiki.answer.com.pdb
+C:\Users\Administrator\Desktop\wiki.answer.com\wiki.answer.com\obj\Debug\wiki.answer.com.csprojResolveAssemblyReference.cache
